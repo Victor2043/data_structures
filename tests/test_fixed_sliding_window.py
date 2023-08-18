@@ -1,5 +1,5 @@
 import unittest
-from sliding_window.fixed_sliding_window import fixed_sliding_window, sw
+from sliding_window.fixed_sliding_window import fixed_sliding_window
 
 class TestFixedSlidingWindow(unittest.TestCase):
     def test_should_return_all_possible_combinations(self):
